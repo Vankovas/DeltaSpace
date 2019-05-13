@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Through
+  - Coin_yellow
+  - GameMaster
+  - deathzone
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Obstacle
+  - Middle Tile Layer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 1611635347
+    locked: 0
+  - name: Middle
+    uniqueID: 2705437447
+    locked: 0
+  - name: deathzone
+    uniqueID: 2891262835
+    locked: 0
+  - name: Foreground
+    uniqueID: 2356246449
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
